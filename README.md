@@ -1,3 +1,3 @@
 # esd
 
-Lab project to mimic the functionality of an FM tuner knob using Analog-Digital Converter, Pulse-width Modulator and LCD Display on the ARM LPC 1768 written in Embedded-C submitted as part of the Embedded System Design Lab
+Collaborated with two team members to write an Embedded-C mini-project to mimic the working of an FM tuner. The source code had to be written to run on an NXP LPC-1768 (ARM) processor using an Analog-Digital Converter, Pulse-width Modulator and LCD Display interfaced to the processor.
